@@ -26,9 +26,9 @@ latest_posts:
 ---
 
 #### About Me
-Hi, I am arnav Marwaha, a final year mechanical engineering student from the Manipal Institute of Technology. At manipal, I have been involved with the [Parikshit Student Satellite](parikshitspace.in) in the capacity of system engineer and the subsystem head of the Structures, Thermals and Mechanisms Subsystem when I was not interning at GE Aerospace or DRDO. 
+Hi, I am arnav Marwaha, a final year mechanical engineering student from the Manipal Institute of Technology. At Manipal, I have been involved with the [Parikshit Student Satellite](parikshitspace.in) in the capacity of system engineer and the subsystem head of the Structures, Thermals, and Mechanisms Subsystem when I was not interning at GE Aerospace or DRDO. 
 
-Currently, I am working on my bachelors project at [BEUMER Group](https://www.beumergroup.com/about-us/beumer-india-private-limited/).
+Currently, I am working on my bachelor's project at [BEUMER Group](https://www.beumergroup.com/about-us/beumer-india-private-limited/).
 
 I will soon be starting my masters in aerospace engineering at UIUC, where I hope to continue working on aerospace structures and mechanisms, and to dive deeper into spacecraft mission planning and control.
 
@@ -37,21 +37,19 @@ I'd love to hear your thoughts regarding any of the work I have done previously,
 ---
 <details>
   <summary>My profile at a glance!</summary>
+  <h3>Education</h3>
 
-  
-  #### Education
-  
-  B.Tech mechanical engineering - machine design specialization
-  
-  *relevant courses: design of mechanical systems, mechanical vibrations, automatic control engineering, elements of mechatronics systems, heat transfer*
+<p><strong>B.Tech Mechanical Engineering</strong> - Machine Design Specialization</p>
 
-#### My links
-  1. linkedin @ [Linkedin](https://www.linkedin.com/in/arnav-marwaha-a7487a219/)
-  2. X (twitter) @ [marwaharnav](https://x.com/marwaharnav)
-  3. email @ [marwaharnav0@gmail.com](mailto:marwaharnav0@gmail.com)
+<p><em>Relevant courses:</em> Design of Mechanical Systems, Mechanical Vibrations, Automatic Control Engineering, Elements of Mechatronics Systems, Heat Transfer</p>
+
+<h3>My Links</h3>
+<ol>
+  <li>LinkedIn @ <a href="https://www.linkedin.com/in/arnav-marwaha-a7487a219/" target="_blank">Linkedin</a></li>
+  <li>X (Twitter) @ <a href="https://x.com/marwaharnav" target="_blank">marwaharnav</a></li>
+  <li>Email @ <a href="mailto:marwaharnav0@gmail.com">marwaharnav0@gmail.com</a></li>
+</ol>
   
-
-
 </details>
 
 ---
