@@ -35,8 +35,10 @@ I will soon be starting my masters in aerospace engineering at UIUC, where I hop
 I'd love to hear your thoughts regarding any of the work I have done previously, as well as guidance you can give me for my future endeavours. 
 
 ---
-
-#### Education
+<details>
+  <summary>My profile at a glance!</summary>
+  
+  #### Education
   
   B.Tech mechanical engineering - machine design specialization
   
@@ -47,5 +49,7 @@ I'd love to hear your thoughts regarding any of the work I have done previously,
   2. X (twitter) @ [marwaharnav](https://x.com/marwaharnav)
   3. email @ [marwaharnav0@gmail.com](mailto:marwaharnav0@gmail.com)
   
+
+</details>
 
 ---
