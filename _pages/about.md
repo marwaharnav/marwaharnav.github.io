@@ -8,7 +8,7 @@ profile:
   image: profile.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>representing <a href="parikshitspace.in">parikshit</a> at the indian space conclave</p>
+    <p>representing <a href="https://parikshitspace.in">parikshit</a> at the indian space conclave</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
@@ -26,7 +26,7 @@ latest_posts:
 ---
 
 #### About Me
-Hi, I am arnav Marwaha, a final year mechanical engineering student from the Manipal Institute of Technology. At Manipal, I have been involved with the [Parikshit Student Satellite](parikshitspace.in) in the capacity of system engineer and the subsystem head of the Structures, Thermals, and Mechanisms Subsystem when I was not interning at GE Aerospace or DRDO. 
+Hi, I am arnav Marwaha, a final year mechanical engineering student from the Manipal Institute of Technology. At Manipal, I have been involved with the [Parikshit Student Satellite](https://parikshitspace.in) in the capacity of system engineer and the subsystem head of the Structures, Thermals, and Mechanisms Subsystem when I was not interning at GE Aerospace or DRDO. 
 
 Currently, I am working on my bachelor's project at [BEUMER Group](https://www.beumergroup.com/about-us/beumer-india-private-limited/).
 
