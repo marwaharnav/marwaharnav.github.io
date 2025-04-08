@@ -45,7 +45,7 @@ I'd love to hear your thoughts regarding any of the work I have done previously,
 #### My links
   1. linkedin @ [Linkedin](https://www.linkedin.com/in/arnav-marwaha-a7487a219/)
   2. X (twitter) @ [marwaharnav](https://x.com/marwaharnav)
-  3. email @ [marwaharnav0@gmail.com](marwaharnav0@gmail.com)
+  3. email @ [marwaharnav0@gmail.com](mailto:marwaharnav0@gmail.com)
   
 
 ---
